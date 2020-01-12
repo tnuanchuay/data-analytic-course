@@ -3,7 +3,7 @@
 Please raise issue/pull-request incase you get some problem or question.
 
 ## MacOS/Linux
-1. Install latest virtual box
+1. Install `6.0` Virtual box
 2. Install latest vagrant by execute this command
 ```bash
 $ brew cask install vagrant
@@ -28,7 +28,7 @@ $ vagrant up
 7. Browse to `http://127.0.0.1:8001` by browser
 
 ## Windows
-1. Install Virtual box and Vagrant
+1. Install `6.0` Virtual box and latest Vagrant
 2. Download and put `package.box` to `C:/Users/you_user/.vagrant.d/boxes`
 3. Execute command to create new VM box
 ```
