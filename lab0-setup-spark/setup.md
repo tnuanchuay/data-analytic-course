@@ -47,3 +47,8 @@ https://github.com/spark-mooc/mooc-setup/archive/master.zip
 $ vagrant up
 ```
 7. Browse to `http://127.0.0.1:8001` by browser
+
+### To stop the VM
+```
+$ vagrant halt
+```
